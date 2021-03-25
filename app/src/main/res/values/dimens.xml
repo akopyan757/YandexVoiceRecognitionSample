@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="resultTextSize">32sp</dimen>
+    <dimen name="statusTextSize">18sp</dimen>
+    <dimen name="statusMarginTop">32dp</dimen>
+    <dimen name="buttonMargin">24dp</dimen>
+    <dimen name="buttonTextSize">18sp</dimen>
+</resources>

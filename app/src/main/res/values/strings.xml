@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YandexVoiceRecognitionSample</string>
+    <string name="title_activity_main">Speech Recognition</string>
+    <string name="record_speech">Record Speech</string>
+    <string name="error_support">Error: device support</string>
+    <string name="error_support_long">Device does not support .ogg audio format</string>
+    <string name="error_permission">Record permission denied to record audio</string>
+    <string name="granted_permission">Record permission granted</string>
+    <string name="button_for_record">Press and hold on button for record</string>
+    <string name="recognize_text">Recognize text</string>
+    <string name="todo">TODO</string>
+    <string name="record">Record</string>
+</resources>
